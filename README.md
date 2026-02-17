@@ -21,4 +21,4 @@ La siguiente imagen muestra la topología implementada:
 
 La documentación detallada del desarrollo del laboratorio se encuentra disponible en la Wiki del repositorio:
 
-(https://github.com/smartinezr16/Lab-1---Red---Interconexi-n/wiki)
+(https://github.com/smartinezr16/lab-red-domestica-familia-perez/wiki)
